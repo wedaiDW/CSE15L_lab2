@@ -7,7 +7,7 @@
 List *of* something.  
 - 1
 - 2
-- 3
+- 3  
 List **of** something else
 1. 2
 2. 3
